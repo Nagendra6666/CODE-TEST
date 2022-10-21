@@ -17,10 +17,165 @@ a {
 
 @media (prefers-color-scheme: dark) {
   html {
-    color-scheme: dark;
+    color-scheme: white;
   }
   body {
     color: white;
-    background: black;
+    background:black;
   }
 }
+.area {
+  width: 500px;
+  height: 700px;
+  display: block;
+  background-color: white;
+  color: black;
+margin-left: auto;
+margin-right: auto;
+text-align:center;
+position: relative;
+top: 20px;
+
+
+}
+.house 
+{
+  position:relative; left:0px; top:4px;
+  width: 30px;
+  height: 30px;
+}
+.title
+{
+color: black;
+margin-bottom: 0;
+
+}
+.area h3{
+  margin-top: 0;
+  position:relative;left: 15px;
+  color: dimgray;
+}
+.content 
+{
+  position: relative;
+top: 40px;
+
+
+}
+.Email{
+  padding: 10px;
+}
+.password{
+  padding: 10px;
+}
+.block
+{
+  background-color: red;
+  width: 250px;
+  padding: 10px;
+  color: white;
+}
+.block:hover {
+  background-color: rgb(245, 2, 2);
+
+}
+.Email
+{
+  
+  color:black;
+  width: 250px; 
+}
+.password
+{
+  color:black;
+  width: 250px;
+}
+
+.google
+{
+  background-color:white;
+  color: black;
+  width: 250px;
+  
+  padding: 10px;
+  
+  
+}
+.googleimage{
+  position:relative; right:20px; top:2px;
+}
+.facebookimage{
+  position:relative; right:15px; top:2px;
+  width: 20px;
+  height: 20px;
+}
+.appleimage 
+{
+  position:relative; right:30px; top:2px;
+  width: 20px;
+  height: 20px;
+}
+.facebook
+{
+  background-color: blue;
+  width: 250px;
+  color: white;
+   
+  padding: 10px;
+}
+
+.apple
+{
+  background-color: black;
+  color: white;
+  width: 250px;
+   
+  padding: 10px;
+  
+}
+
+h6{
+  color: black;
+}
+h6 a{
+  color: blue;
+}
+.googleaccount
+{
+  display: block;
+  width: 500px;
+  height: 400px;
+  background: white;
+  color: black;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 150px;
+}
+.googleaccount h1{
+  color: blue;
+}
+.message
+{
+  top: 2px;
+  max-width: 25%;
+  max-height: 25%;
+}
+.continue
+{
+  background-color: rgb(98, 7, 235);
+  width: 250px;
+  padding: 10px;
+  color: white;
+  margin-top: 20px;
+}
+.resendemail
+{
+  background-color: rgb(98, 7, 235);
+  width: 250px;
+  padding: 10px;
+  color: white;
+  margin-top: 10px;
+}
+
